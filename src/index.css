@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* Estilo global */
+body {
+  @apply text-gray-300;          /* texto gris claro */
+  @apply bg-[#056d63];           /* fondo color hacker personalizado */
+}
