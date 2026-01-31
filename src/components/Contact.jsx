@@ -52,7 +52,8 @@ export default function Contact() {
                        hover:bg-red-600 hover:text-white transition"
           >
             <img src={GmailIcon} alt="Gmail" className="w-6 h-6" />
-            <span className="font-semibold">Gmail</span>
+            <span className="font-semibold">Gmail  </span>
+            <span className="font-semibold">leonardo.amaro.a@uni.pe  </span>
           </a>
 
           {/* LinkedIn */}
