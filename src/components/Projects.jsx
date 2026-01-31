@@ -2,7 +2,7 @@ export default function Projects() {
     const projects = [
         {   
             title: "Aplicación Web de Gestión de Tareas con Autenticación Segura",
-            link: "https://www.geeksforgeeks.org/reactjs/progress-tracker-using-react-and-local-storage/",
+            link: "https://github.com/leonardostore389-tech/loginresgitertasks/tree/master",
             img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIs14uXvXtE6nPoOYdHzJSEZf3YSSrTjxCa2fZ1SyL0DqWAzIzhX4Y4daaKtpJTgZm6T_sAJgqLqo4CPw9HIjlNJmfehtBZq61qKL4M8XuHAPhbln-NnXtA142P68JHV__Qtxv2-oYPaGx3eLmwGNKEJ3cCQSI-FIdFkAF5QSUzmRIcvnSGxACKOWPBHl/s1616/gestortareas.PNG" ,
             description: "Una aplicación web full-stack para gestión de tareas que incluye autenticación de usuarios, CRUD de tareas y una interfaz responsive. Se enfoca en implementar prácticas seguras.",
             tech: [ "React", "Node.js", "Express", "MongoDB", "HTML", "CSS", "JavaScript"]
