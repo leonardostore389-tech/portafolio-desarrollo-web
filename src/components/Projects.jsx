@@ -7,7 +7,13 @@ export default function Projects() {
             description: "Una aplicación web full-stack para gestión de tareas que incluye autenticación de usuarios, CRUD de tareas y una interfaz responsive. Se enfoca en implementar prácticas seguras.",
             tech: [ "React", "Node.js", "Express", "MongoDB", "HTML", "CSS", "JavaScript"]
         },
-        
+        {   
+            title: "Sistema Inteligente de Gestión Académica",
+            link: "https://github.com/leonardostore389-tech/chatbot_ia_notasalumnos",
+            img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3JQKgSLeeKU8JgMHedVetn3-9XJMi8zaYmFPwkuVXTABuZGzOptXFiWadyg7IT5IgmbkF9y92Kz-VF7vK6o6bYZZxZSSL-ibc_vvUpLPEYB49Rot26eUWUR9bUwoVfOM5Kiee5_hko_9sIK9Q7EVNFOA1xYBvTy7CVXyYysWxABG85jrkSZw8dGu3i_yU/s1121/bsedatosestudiante.PNG" ,
+            description: "Educator AI es un sistema inteligente de gestión académica que combina una API REST robusta con inteligencia artificial para el seguimiento y análisis del rendimiento estudiantil. ",
+            tech: [ "AI", "Hugging Face", "Express", "MongoDB", "HTML", "CSS", "JavaScript"]
+        },
         
        
     ];
